@@ -1,4 +1,6 @@
 # Introduction
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnetfoundry%2Fzfw.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnetfoundry%2Fzfw?ref=badge_shield)
+
 
 --- 
 This standalone firewall application utilizes both tc-ebpf and xdp to provide stateful IPv4/IPv6 firewalling.
@@ -962,3 +964,7 @@ removing /sys/fs/bpf/tc/globals/modbus_state_map
 ```
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnetfoundry%2Fzfw.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnetfoundry%2Fzfw?ref=badge_large)
